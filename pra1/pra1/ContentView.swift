@@ -80,7 +80,7 @@
 //        addChild(backNode)
 //
 //        // アニメーションさせるノードの設定
-//        let atlas = SKTextureAtlas(named: "yokoi")
+//        let atlas = SKTextureAtlas(named: "")
 //        let animationFrames = (1...atlas.textureNames.count).map { atlas.textureNamed("\($0)") }
 //        let targetNode = SKSpriteNode(texture: animationFrames.first!)
 //        targetNode.position = .init(x: frame.midX, y: frame.midY)
