@@ -22,21 +22,21 @@ struct ContentView: View {
                 //            Image(systemName: "globe")
                 //                .imageScale(.large)
                 //                .foregroundColor(.accentColor)
-                Text("Saori Aoyama")
+                Text("")
                     .font(.title)
                 HStack{
-                    Text("One of residents")
+                    Text("")
                         .font(.subheadline)
                     Spacer()
-                    Text("Urban Terrace Kamishakujii")
+                    Text("")
                         .font(.subheadline)
                 }
                 
                 Divider()
                 
-                Text("About Saori Aoyama")
+                Text("")
                     .font(.title2)
-                Text("She is a super model.")
+                Text("")
             }
             .padding()
             
