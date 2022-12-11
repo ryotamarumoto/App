@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Imagepra2: View {
     var body: some View {
-        Image("saori")
+        Image("")
             .resizable()
             .scaledToFit()
             .clipShape(Circle())
